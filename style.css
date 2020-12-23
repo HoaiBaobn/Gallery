@@ -1,0 +1,11 @@
+.wrap{
+    width: 500px;
+}
+.wrap-image{
+    display: flex;
+    flex-flow: row-reverse wrap-reverse;
+}
+img{
+    margin: 10px;
+    flex-grow: 1;
+}
